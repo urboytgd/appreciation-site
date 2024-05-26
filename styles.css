@@ -68,6 +68,7 @@ h1 {
 
 #gift-img-happy:hover {
     background-image: url("images/meet.gif");
+    
 }
 
 #gift-img-hot:hover {
@@ -82,10 +83,6 @@ h1 {
 #gift-img-badass:hover {
     background-image: url("images/not found.gif");
     background-position: top;
-}
-
-.hover-text:hover {
-    visibility: visible;
 }
 
 #gift-img-cheers:hover {
